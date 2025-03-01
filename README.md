@@ -6,7 +6,7 @@ This portfolio will contain copies of my Enterprise Data Management Lab Exercise
 
 # Education
 - College: Bachelor of Science in Information Systems (CCA)
-- High School: Republic Central COlleges
+- High School: Republic Central Colleges
 - Elementary: Edilberto M. Ganzon Elementary School
   
 # My Projects
