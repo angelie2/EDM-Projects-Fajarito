@@ -10,6 +10,6 @@ An undergraduate student currently pursuing Bachelor of Science in Information S
 - Elementary: Edilberto M. Ganzon Elementary School
   
 # My Projects
-- Midterms Lab Task 1:
+- Midterms Lab Task 1: [Data Cleaning and Preparation using Excel](Midterm Task 1/README.md)
 - Midterms Lab Task 2:
 
