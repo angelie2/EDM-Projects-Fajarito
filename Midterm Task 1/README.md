@@ -22,4 +22,4 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 <img src="cleaneddata.PNG" alt="Alt Text" width="400" height="300">
 
 ## Here's the Physical Data Model
-<img src="rawdata.PNG" alt="Alt Text" width="400" height="300">
+<img src="erd.PNG" alt="Alt Text" width="400" height="300">
