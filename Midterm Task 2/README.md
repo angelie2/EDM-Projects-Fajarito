@@ -42,13 +42,13 @@ The task is to clean and transform the Uncleaned_DS_Jobs.csv dataset from kaggle
 <img src="images/Cleaned%20DS%20Jobs.PNG" alt="Alt Text" width="1000" height="500">
 
 ## Sal By Role Type dup:
-<img src="images/Role%20Type%20dup.PNG" alt="Alt Text" width="1000" height="500">
+<img src="images/Sal%20By%20Role%20Type%20dup.PNG" alt="Alt Text" width="1000" height="500">
 
 ## Sal By Role Size ref:
-<img src="images/Role%20Size%20ref.PNG" alt="Alt Text" width="1000" height="500">
+<img src="images/Sal%20By%20Role%20Size%20ref.PNG" alt="Alt Text" width="1000" height="500">
 
 ## Sal By State ref:
-<img src="images/State%20ref.PNG" alt="Alt Text" width="1000" height="500">
+<img src="images/Sal%20By%20State%20ref.PNG" alt="Alt Text" width="1000" height="500">
 
 ## Query Dependencies:
-<img src="images/query%20dependencies.PNG" alt="Alt Text" width="500" height="500">
+<img src="images/query%20dependencies.PNG" alt="Alt Text" width="800" height="500">
