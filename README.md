@@ -5,7 +5,7 @@ This portfolio will contain copies of my Enterprise Data Management Lab Exercise
 # About Me
 An undergraduate student currently pursuing Bachelor of Science in Information Systems at the City College of Angeles.
 # Education
-- College: Bachelor of Science in Information Systems (CCA)
+- College: City Colleges of Angeles (BSIS)
 - High School: Republic Central Colleges
 - Elementary: Edilberto M. Ganzon Elementary School
   
