@@ -3,7 +3,7 @@
 This portfolio will contain copies of my Enterprise Data Management Lab Exercises.
 
 # About Me
-An undergraduate student currently pursuing Bachelor of Science in Information Systems at the City College of Angeles.
+An undergraduate student currently pursuing Bachelor of Science in Information Systems at City College of Angeles, passionate about exploring the intersection of technology and innovation with a drive to learn, create, and contribute to the tech community.
 # Education
 - College: City Colleges of Angeles (BSIS)
 - High School: Republic Central Colleges
