@@ -51,4 +51,4 @@ The task is to clean and transform the Uncleaned_DS_Jobs.csv dataset from kaggle
 <img src="images/State%20ref.PNG" alt="Alt Text" width="1000" height="500">
 
 ## Query Dependencies:
-<img src="images/query%20dependencies.PNG" alt="Alt Text" width="1000" height="500">
+<img src="images/query%20dependencies.PNG" alt="Alt Text" width="500" height="500">
