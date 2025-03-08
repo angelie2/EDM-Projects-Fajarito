@@ -9,7 +9,7 @@ The task is to clean and transform the Uncleaned_DS_Jobs.csv dataset from kaggle
 - Which job roles or titles pay the best and least in specific states? The cleaning involves fixing salary data, classifying job roles, handling inconsistent locations, cleaning company details, and preparing the data to group by role type, company size, and state to get salary insights.
 
 ## Screenshot of the dataset before cleaning and transformation:
-<img src="images/uncleaned.PNG" alt="Alt Text" width="600" height="300">
+<img src="images/uncleaned.PNG" alt="Alt Text" width="900" height="400">
 
 # Steps performed in data cleaning and transformation
 
@@ -51,4 +51,4 @@ The task is to clean and transform the Uncleaned_DS_Jobs.csv dataset from kaggle
 <img src="images/Sal%20By%20State%20ref.PNG" alt="Alt Text" width="1000" height="500">
 
 ## Query Dependencies:
-<img src="images/query%20dependencies.PNG" alt="Alt Text" width="800" height="500">
+<img src="images/query%20dependencies.PNG" alt="Alt Text" width="600" height="500">
