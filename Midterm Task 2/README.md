@@ -39,16 +39,16 @@ The task is to clean and transform the Uncleaned_DS_Jobs.csv dataset from kaggle
 
 # Final output (screenshot of the final queries):
 ## Cleaned DS Jobs:
-<img src="images/Cleaned DS Jobs.png" alt="Alt Text" width="1000" height="500">
+<img src="images/Cleaned%20DS%20Jobs.png" alt="Alt Text" width="1000" height="500">
 
 ## Sal By Role Type dup:
-<img src="images/Role Type dup.png" alt="Alt Text" width="1000" height="500">
+<img src="images/Role%20Type%20dup.png" alt="Alt Text" width="1000" height="500">
 
 ## Sal By Role Size ref:
-<img src="images/Role Size ref.png" alt="Alt Text" width="1000" height="500">
+<img src="images/Role%20Size%20ref.png" alt="Alt Text" width="1000" height="500">
 
 ## Sal By State ref:
-<img src="images/State ref.png" alt="Alt Text" width="1000" height="500">
+<img src="images/State%20ref.png" alt="Alt Text" width="1000" height="500">
 
 ## Query Dependencies:
-<img src="images/query dependencies.png" alt="Alt Text" width="1000" height="500">
+<img src="images/query%20dependencies.png" alt="Alt Text" width="1000" height="500">
