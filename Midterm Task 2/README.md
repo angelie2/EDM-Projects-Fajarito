@@ -1,4 +1,4 @@
-# Midterm task 2 – Data Cleaning and Transformation using Power Query Editor
+# Midterm Lab Task 2 – Data Cleaning and Transformation using Power Query Editor
 
 ## Task Description:
 
