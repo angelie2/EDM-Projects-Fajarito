@@ -8,7 +8,7 @@ The task is to clean and transform the Uncleaned_DS_Jobs.csv dataset from kaggle
 The cleaning involves fixing salary data, classifying job roles, handling inconsistent locations, cleaning company details, and preparing the data to group by role type, company size, and state to get salary insights.
 
 ## Screenshot of the dataset before cleaning and transformation:
-<img src="images/before.png" alt="Alt Text" width="1000" height="500">
+<img src="images/uncleaned.png" alt="Alt Text" width="1000" height="500">
 
 # Steps performed in data cleaning and transformation
 ## Data cleaning:
