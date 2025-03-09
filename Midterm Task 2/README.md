@@ -58,4 +58,4 @@ Midterm Lab Task 2: [Data Cleaning and Transformation using Power Query Editor](
 
 
 ## Query Dependencies:
-<img src="images/query%20dependencies.png" alt="Alt Text" width="800" height="500">
+<img src="images/query%20dependencies.png" alt="Alt Text" width="500" height="500">
