@@ -42,7 +42,7 @@ The task is to clean and transform the Uncleaned_DS_Jobs.csv dataset from kaggle
 <img src="images/Cleaned%20DS%20Jobs.PNG" alt="Alt Text" width="1000" height="500">
 
 ## Sal By Role Type dup:
-<img src="images/Sal%20By%20Role%20Type%20dup.PNG" alt="Alt Text" width="1000" height="500">
+<img src="images/Sal%20By%20Role%20Type%20dup.png" alt="Alt Text" width="1000" height="500">
 
 ## Sal By Role Size ref:
 <img src="images/Sal%20By%20Role%20Size%20ref.PNG" alt="Alt Text" width="1000" height="500">
