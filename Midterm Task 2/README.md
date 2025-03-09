@@ -46,16 +46,16 @@ Midterm Lab Task 2: [Data Cleaning and Transformation using Power Query Editor](
 
 ## Sal By Role Type dup:
 
-<img src="images/Sal%20By%20Role%20Type%20dup.png" alt="Alt Text" width="1300" height="400">
+<img src="images/Sal%20By%20Role%20Type%20dup.png" alt="Alt Text" width="1000" height="500">
 
 ## Sal By Role Size ref:
 
-<img src="images/Sal%20By%20Role%20Size%20ref.png" alt="Alt Text" width="1300" height="400">
+<img src="images/Sal%20By%20Role%20Size%20ref.png" alt="Alt Text" width="1000" height="500">
 
 ## Sal By State ref:
 
-<img src="images/Sal%20By%20State%20ref.png" alt="Alt Text" width="1300" height="600">
+<img src="images/Sal%20By%20State%20ref.png" alt="Alt Text" width="1000" height="500">
 
 
 ## Query Dependencies:
-<img src="images/query%20dependencies.png" alt="Alt Text" width="1100" height="800">
+<img src="images/query%20dependencies.png" alt="Alt Text" width="1000" height="800">
