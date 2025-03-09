@@ -36,7 +36,7 @@ The cleaning involves fixing salary data, classifying job roles, handling incons
 - Checked query dependencies to confirm correct relationships.
  
 # Excel Ouput:
-Midterm Lab Task 2: [Data Cleaning and Transformation using Power Query Editor]([https://github.com/bangshiki/EDM-Portfolio/tree/2956ee43492e16e8da44b0c5b6ad73427849b31f/Midterm%20Task%202/Excel/Midterm%20Task%202_done](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/Power%20Query.xlsx)
+Midterm Lab Task 2: [Data Cleaning and Transformation using Power Query Editor]([https://github.com/bangshiki/EDM-Portfolio/tree/2956ee43492e16e8da44b0c5b6ad73427849b31f/Midterm%20Task%202/Excel/Midterm%20Task%202_done](https://github.com/angelie2/EDM-Projects-Fajarito/tree/main/rawfile)
 
 # Final output (screenshot of the final queries):
 
