@@ -28,7 +28,7 @@ Create a Pivot Table-based dashboard using the provided dataset. Summarize salar
 - Applied design and color settings to improve visual appeal and readability.  
 
 # Excel Ouput:
-Midterm Lab Task 3: [Creating Pivot Table and Dashboard](https://github.com/bangshiki/EDM-Portfolio/blob/0f1d7801f86916fff7b9faf17f5cccba65772017/Midterm%20Task%203/Excel/Midterm%20Task%203_done.xlsx)
+Midterm Lab Task 3: [Creating Pivot Table and Dashboard](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/Pivot%20Table%20and%20Dashboard.xlsx)
 
 # Final output (screenshot of the Dashboard):
-<img src="images/DASHBOARD.png" alt="Alt Text" width="1000" height="700">
+<img src="images/Pivot Table.png" alt="Alt Text" width="1000" height="700">
