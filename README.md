@@ -12,3 +12,4 @@ An undergraduate student currently pursuing Bachelor of Science in Information S
 # 📂 My Projects
 - Midterms Lab Task 1: [Data Cleaning and Preparation using Excel](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/Midterm%20Task%201/README.md)
 - Midterms Lab Task 2: [Data Cleaning and Transformation using Power Query Editor](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/Midterm%20Task%202/README.md)
+- Midterms Lab Task 3: [Creating Pivot Table and Dashboard](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/Midterm%20Task%203/README.md)
