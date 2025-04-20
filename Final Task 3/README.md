@@ -26,14 +26,14 @@ Only valid entries were added to the table, ensuring no violations of the pricin
 - "Monitor" - (-149.99)
 - "External Hard Drive" - (-79.99)
 
-<img src="images/productstbl" alt="Alt Text" width="225" height="200">
+<img src="images/productstbl.png" alt="Alt Text" width="225" height="200">
 
 ## Step 4: Modifying Table Structure
 Altered the `product_name` column to increase its maximum length to 120 characters using ALTER TABLE.
 
 # Outputs:
 ## MySQL Query Statements (SQL Commands)
-<img src="images/querystatementsft3.png" alt="SQL Query Statements" width="600" height="600">
+<img src="images/querystatementsft3.png" alt="SQL Query Statements" width="800" height="600">
 
 ## Updated Table Structure
 ### Products Table
