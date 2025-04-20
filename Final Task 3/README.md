@@ -26,7 +26,7 @@ Only valid entries were added to the table, ensuring no violations of the pricin
 - "Monitor" - (-149.99)
 - "External Hard Drive" - (-79.99)
 
-<img src="images/productstbl.png" alt="Alt Text" width="225" height="200">
+<img src="images/productstbl.png" alt="Alt Text" width="500" height="400">
 
 ## Step 4: Modifying Table Structure
 Altered the `product_name` column to increase its maximum length to 120 characters using ALTER TABLE.
