@@ -24,23 +24,23 @@ This task involves **developing and structuring** a relational database derived 
 
 # Outputs:
 ## Query Statements
-<img src="images/query%20statements%20ft2.png" alt="Alt Text" width="350" height="400">
+<img src="images/query%20statements%20ft2.png" alt="Alt Text" width="500" height="800">
 
 ## Table Structures
 ### Students Table
-<img src="images/studenttbl.png" alt="Alt Text" width="300" height="80">
+<img src="images/studenttbl.png" alt="Alt Text" width="600" height="200">
 
 ### Assignment Table
-<img src="images/assignmenttbl.png" alt="Alt Text" width="300" height="150">
+<img src="images/assignmenttbl.png" alt="Alt Text" width="600" height="200">
 
 ### Submission Table
-<img src="images/submissiontbl.png" alt="Alt Text" width="400" height="150">
+<img src="images/submissiontbl.png" alt="Alt Text" width="600" height="200">
 
 ## ER Diagram
-<img src="images/erdft2.png" alt="Alt Text" width="350" height="350">
+<img src="images/erdft2.png" alt="Alt Text" width="500" height="500">
 
 ## SQL Copy of the Database
-**Download the complete SQL file here:** [Event Management](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/FInal%20Task%201%20Event%20Management.sql)
+**Download the complete SQL file here:** [Transforming ER Model to Relational Tables](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/FInal%20Task%201%20Event%20Management.sql)
 
 This documentation provides a structured and detailed guide for implementing a **Transforming ER Model to Relational Tables**. 🚀
 
