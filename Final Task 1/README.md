@@ -15,20 +15,20 @@ This task involves **designing and implementing** a relational database using **
 - Exported the full **SQL structure** using **phpMyAdmin** or **MySQL Workbench**.
 
 ## Step 3: MySQL Query Statements (SQL Commands)
-<img src="images/query%20statements.PNG" alt="SQL Query Output" width="1000" height="800">
+<img src="images/query%20statements.PNG" alt="SQL Query Output" width="1200" height="800">
 
 ## Step 4: Table Structure Screenshots
 ### Events Table:
-<img src="images/desceventstbl.PNG" alt="Events Table Preview" width="600" height="300">
+<img src="images/desceventstbl.PNG" alt="Events Table Preview" width="900" height="300">
 
 ### Attendees Table:
-<img src="images/descattendeestbl.PNG" alt="Attendees Table Preview" width="600" height="300">
+<img src="images/descattendeestbl.PNG" alt="Attendees Table Preview" width="900" height="300">
 
 ### Event_Attendees Table:
-<img src="images/desceventattendeestbl.PNG" alt="Event Attendees Table Preview" width="600" height="300">
+<img src="images/desceventattendeestbl.PNG" alt="Event Attendees Table Preview" width="900" height="300">
 
 ### Event_Sponsors Table:
-<img src="images/desceventssponsorstbl.PNG" alt="Event Sponsors Table Preview" width="600" height="300">
+<img src="images/desceventssponsorstbl.PNG" alt="Event Sponsors Table Preview" width="900" height="300">
 
 ## Step 5: ER Diagram Representation
 <img src="images/ER_Diagram.png" alt="Entity Relationship Diagram" width="800" height="400">
