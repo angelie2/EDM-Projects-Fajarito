@@ -1,4 +1,4 @@
-# Midterm Lab Task 1 - Data Cleaning and Normalization in Excel
+# Midterm Lab Task 1 – Data Cleaning and Normalization in Excel
 
 ## Overview
 In this task, we process raw flat data from Excel by performing data cleaning, normalization, and mapping it into a Physical Data Model.
