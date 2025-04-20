@@ -26,21 +26,21 @@ Only valid entries were added to the table, ensuring no violations of the pricin
 - "Monitor" - (-149.99)
 - "External Hard Drive" - (-79.99)
 
-<img src="images/insert_products.png" alt="Alt Text" width="225" height="200">
+<img src="images/productstbl" alt="Alt Text" width="225" height="200">
 
 ## Step 4: Modifying Table Structure
 Altered the `product_name` column to increase its maximum length to 120 characters using ALTER TABLE.
 
 # Outputs:
 ## MySQL Query Statements (SQL Commands)
-<img src="images/queries.png" alt="SQL Query Statements" width="320" height="300">
+<img src="images/querystatementsft3.png" alt="SQL Query Statements" width="600" height="800">
 
 ## Updated Table Structure
 ### Products Table
-<img src="images/product_tbl.png" alt="Products Table Preview" width="350" height="100">
+<img src="images/descproductstbl.png" alt="Products Table Preview" width="600" height="200">
 
 ## ER Diagram Representation
-<img src="images/erdiagram.png" alt="Entity Relationship Diagram" width="500" height="500">
+<img src="images/erdiagram.png" alt="Entity Relationship Diagram" width="600" height="200">
 
 ## SQL Copy of the Database
 **Download the complete SQL file here:** [Table Manipulation](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/FInal%20Task%201%20Event%20Management.sql)
