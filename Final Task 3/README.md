@@ -21,7 +21,7 @@ Only valid entries were added to the table, ensuring no violations of the pricin
 - Product 6: "Desk Lamp" - 24.99
 - Product 7: "Speakers" - 9.99
   
-Invalid Entries (Not Inserted Due to `CHECK` Constraint)
+❗Invalid Entries (Not Inserted Due to `CHECK` Constraint)❗
 - "Headphones" - (-49.99)
 - "Monitor" - (-149.99)
 - "External Hard Drive" - (-79.99)
