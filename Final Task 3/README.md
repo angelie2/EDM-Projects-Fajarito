@@ -33,7 +33,7 @@ Altered the `product_name` column to increase its maximum length to 120 characte
 
 # Outputs:
 ## MySQL Query Statements (SQL Commands)
-<img src="images/querystatementsft3.png" alt="SQL Query Statements" width="600" height="800">
+<img src="images/querystatementsft3.png" alt="SQL Query Statements" width="600" height="600">
 
 ## Updated Table Structure
 ### Products Table
