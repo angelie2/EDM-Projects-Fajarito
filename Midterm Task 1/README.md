@@ -1,25 +1,28 @@
-# Midterm Lab Task 1 - Data Cleaning and Preparation using Excel
+# Midterm Lab Task 1 - Data Cleaning and Normalization in Excel
 
-For this task we are given a Flat data from Excel (See rawfile) and we are Task to perform Data CLeaning and Preparation
+## Overview
+In this task, we process raw flat data from Excel by performing data cleaning, normalization, and mapping it into a Physical Data Model.
 
-## STEP 1: Data Cleaning process
-- Load the raw file
-- Fit Column and row width and height
-- TRIM extra spaces
-- Remove NULL values
-- Remove Duplicates
+## Step 1: Data Cleaning
+- Load the raw Excel file.
+- Adjust column and row dimensions for better readability.
+- Remove excess spaces using the TRIM function.
+- Eliminate NULL values to ensure data integrity.
+- Identify and remove duplicate entries.
 
-## STEP 2: Normalization
-- Performed 1NF
-- Perform Table split using 2NF
-- Perform 3 NF
-- Mapped the Normalized tables as a Physical Data Model
+## Step 2: Data Normalization
+- Apply **First Normal Form (1NF)** to structure the data properly.
+- Decompose tables using **Second Normal Form (2NF)** for improved organization.
+- Further refine the structure following **Third Normal Form (3NF)** principles.
+- Map the transformed tables into a **Physical Data Model** for efficient database design.
 
-## STEP 3: Here's the screenshot of my output before I started data cleaning (See screenshot)
-<img src="rawdata.PNG" alt="Alt Text" width="400" height="300">
+## Step 3: Initial Raw Data Screenshot
+<img src="rawdata.PNG" alt="Raw Data Preview" width="400" height="300">
 
-## STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
-<img src="cleaneddata.PNG" alt="Alt Text" width="400" height="300">
+## Step 4: Cleaned Data Screenshot
+<img src="cleaneddata.PNG" alt="Cleaned Data Preview" width="400" height="300">
 
-## Here's the Physical Data Model
-<img src="erd.PNG" alt="Alt Text" width="600" height="300">
+## Step 5: Final Physical Data Model
+<img src="erd.PNG" alt="Entity Relationship Diagram" width="600" height="300">
+
+This documentation outlines the structured approach to cleaning and preparing data efficiently in Excel. 🚀
