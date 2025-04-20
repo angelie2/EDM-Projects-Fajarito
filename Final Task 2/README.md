@@ -24,20 +24,20 @@ This task involves **developing and structuring** a relational database derived 
 
 # Outputs:
 ## Query Statements
-<img src="images/query_statement.png" alt="Alt Text" width="350" height="400">
+<img src="images/query%20statements%20ft2.png" alt="Alt Text" width="350" height="400">
 
 ## Table Structures
 ### Students Table
-<img src="images/student_tbl.png" alt="Alt Text" width="300" height="80">
+<img src="images/studenttbl.png" alt="Alt Text" width="300" height="80">
 
 ### Assignment Table
-<img src="images/assignment_tbl.png" alt="Alt Text" width="300" height="150">
+<img src="images/assignmenttbl.png" alt="Alt Text" width="300" height="150">
 
 ### Submission Table
-<img src="images/submission_tbl.png" alt="Alt Text" width="400" height="150">
+<img src="images/submissiontbl.png" alt="Alt Text" width="400" height="150">
 
 ## ER Diagram
-<img src="images/erd.png" alt="Alt Text" width="350" height="350">
+<img src="images/erdft2.png" alt="Alt Text" width="350" height="350">
 
 ## SQL Copy of the Database
 **Download the complete SQL file here:** [Event Management](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/FInal%20Task%201%20Event%20Management.sql)
