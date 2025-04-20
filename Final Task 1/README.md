@@ -31,10 +31,10 @@ This task involves **designing and implementing** a relational database using **
 <img src="images/desceventssponsorstbl.PNG" alt="Event Sponsors Table Preview" width="900" height="300">
 
 ## Step 5: ER Diagram Representation
-<img src="images/ER_Diagram.png" alt="Entity Relationship Diagram" width="800" height="400">
+<img src="images/erdft1.png" alt="Entity Relationship Diagram" width="800" height="400">
 
 ## Step 6: SQL Copy of the Database
 **Download the complete SQL file here:**  
-[Event Management](https://github.com/bangshiki/EDM-Portfolio/blob/09a1318eff4aefbe153213bf757f113d13d1b18c/Final%20Task%201/files/Event_Management.sql)
+[Event Management](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/FInal%20Task%201%20Event%20Management.sql)
 
 This documentation provides a structured and detailed guide for implementing a **MySQL database** for event management. 🚀
