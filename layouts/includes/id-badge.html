@@ -1,1 +1,57 @@
+<!-- In your _includes or directly in your page layout -->
+
+<div id="id-badge-container">
+  <img src="/assets/images/digital-id.png" id="id-badge" alt="Digital ID Badge">
+</div>
+
+<style>
+  #id-badge-container {
+    position: fixed;
+    top: 100px;
+    left: 100px;
+    cursor: grab;
+    z-index: 9999;
+  }
+
+  #id-badge {
+    width: 220px;
+    animation: swing 3s ease-in-out infinite alternate;
+    transition: transform 0.3s ease;
+  }
+
+  #id-badge:hover {
+    transform: rotateY(180deg);
+  }
+
+  @keyframes swing {
+    0% { transform: rotate(-3deg); }
+    100% { transform: rotate(3deg); }
+  }
+</style>
+
+<script>
+  // Make the ID draggable
+  const container = document.getElementById("id-badge-container");
+  let isDragging = false;
+  let offset = { x: 0, y: 0 };
+
+  container.addEventListener("mousedown", (e) => {
+    isDragging = true;
+    offset.x = e.clientX - container.offsetLeft;
+    offset.y = e.clientY - container.offsetTop;
+    container.style.cursor = "grabbing";
+  });
+
+  document.addEventListener("mouseup", () => {
+    isDragging = false;
+    container.style.cursor = "grab";
+  });
+
+  document.addEventListener("mousemove", (e) => {
+    if (isDragging) {
+      container.style.left = `${e.clientX - offset.x}px`;
+      container.style.top = `${e.clientY - offset.y}px`;
+    }
+  });
+</script>
 
