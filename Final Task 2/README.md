@@ -24,7 +24,7 @@ This task involves **developing and structuring** a relational database derived 
 
 # Outputs:
 ## Query Statements
-<img src="images/query%20statements%20ft2.png" alt="Alt Text" width="500" height="800">
+<img src="images/query%20statements%20ft2.png" alt="Alt Text" width="600" height="800">
 
 ## Table Structures
 ### Students Table
