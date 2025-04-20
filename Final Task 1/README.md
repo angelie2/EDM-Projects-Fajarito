@@ -15,7 +15,7 @@ This task involves **designing and implementing** a relational database using **
 - Exported the full **SQL structure** using **phpMyAdmin** or **MySQL Workbench**.
 
 ## Step 3: MySQL Query Statements (SQL Commands)
-<img src="images/query%20statements.PNG" alt="SQL Query Output" width="1000" height="800">
+<img src="images/query%20statements.PNG" alt="SQL Query Output" width="1000" height="1000">
 
 ## Step 4: Table Structure Screenshots
 ### Events Table:
