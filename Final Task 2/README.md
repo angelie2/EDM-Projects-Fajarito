@@ -4,23 +4,23 @@
 This task involves **developing and structuring** a relational database derived from an **ER model** that tracks student assignment submissions. Converted all entities and attributes into MySQL tables including *Student, Assignment, and Submission*. Established well-defined primary and foreign keys while ensuring accurate relationship modeling to maintain referential integrity.
 
 ## Step 1: Designing the Students Table
-- Establish a table to store student records.
-- Ensure each student has a unique identifier (username) with a maximum of 50 characters.
-- Set the username as the primary key to prevent duplicates.
+- Establish a table to **store student records**.
+- Ensure each student has a **unique identifier** (*username*) with a **maximum of 50 characters**.
+- Set the username as the **primary key** to prevent duplicates.
 
 ## Step 2: Designing the Assignments Table
-- Create a table to store details of assignments.
-- Define a short name (shortname) as the unique identifier for each assignment.
-- Include a due date field, ensuring it cannot be left empty.
-- Add an optional URL field to store related links, allowing null values when no URL is provided.
+- Create a table to **store details of assignments**.
+- Define a short name (*shortname*) as the **unique identifier** for each assignment.
+- Include a `due date` field, ensuring it cannot be left empty.
+- Add an optional `URL` field to store related links, allowing null values when no URL is provided.
 
 ## Step 3: Designing the Submissions Table
-- Develop a table that connects students to their assignments.
-- Ensure that submissions link a student (username) to an assignment (shortname).
-- Allow version tracking, enabling multiple submissions per student per assignment.
-- Include a submission date field to record the exact time of submission.
-- Provide a data field to store the actual content of the submission.
-- Maintain referential integrity by linking students and assignments through foreign keys.
+- Develop a table that **connects students to their assignments**.
+- Ensure that submissions **link a student** (*username*) to an **assignment** (*shortname*).
+- Allow version **tracking**, enabling multiple submissions per student per assignment.
+- Include a `submission date` field to record the exact time of submission.
+- Provide a `data field` to store the actual content of the submission.
+- Maintain **referential integrity** by linking students and assignments through foreign keys.
 
 
 # Outputs:
