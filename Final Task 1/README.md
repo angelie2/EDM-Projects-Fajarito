@@ -1,25 +1,40 @@
-# Finals Lab Task 1: MYSQL Basics (Event Management)
+# Finals Lab Task 1 – MySQL Basics (Event Management)
 
-## Task Description:
-The goal is to design and implement a simple relational database using MySQL statements. The database consists of four main tables: events, attendees, event attendees, and event sponsors. Each table demonstrates key database concepts such as primary keys, foreign keys, composite keys, and relationships.
+## Overview
+This task involves **designing and implementing** a relational database using **MySQL statements**. The database consists of four main tables: *Events, Attendees, Event Attendees, and Event Sponsors*. Each table demonstrates key relational database concepts, including **primary keys, foreign keys, composite keys, and relationships**.
 
-## Task Steps:
-- Create events table with event_id and event_name.
-- Create attendees table with attendee_id and attendee_name.
-- Create event_attendees table to connect events and attendees (many-to-many).
-- Create event_sponsors table with sponsor details linked to events.
-- Generate ER Diagram and export full SQL structure using phpMyAdmin or MySQL Workbench.
+## Step 1: Database Design
+- **Events Table**: Stores event details with `event_id` and `event_name`.
+- **Attendees Table**: Tracks attendees with `attendee_id` and `attendee_name`.
+- **Event_Attendees Table**: Establishes a **many-to-many relationship** between events and attendees.
+- **Event_Sponsors Table**: Links sponsors to events while storing sponsorship details.
 
-# MySQL Query Statements (Output 1)
-<img src="files/SQL%20commands.png" alt="Alt Text" width="1000" height="800">
+## Step 2: SQL Implementation
+- Created tables with appropriate **primary and foreign key constraints**.
+- Ensured proper **relationship mapping** using composite keys.
+- Exported the full **SQL structure** using **phpMyAdmin** or **MySQL Workbench**.
 
-# Table Structure Screenshots (Output 2)
-<img src="files/events.png" alt="Alt Text" width="600" height="300">
-<img src="files/attendees.png" alt="Alt Text" width="600" height="300">
-<img src="files/event_attendees.png" alt="Alt Text" width="600" height="300">
-<img src="files/event_sponsors.png" alt="Alt Text" width="600" height="300">
+## Step 3: MySQL Query Statements (SQL Commands)
+<img src="files/SQL%20commands.png" alt="SQL Query Output" width="1000" height="800">
 
-# ER Diagram (Output 3)
-<img src="files/ER_Diagram.png" alt="Alt Text" width="800" height="400">
+## Step 4: Table Structure Screenshots
+### Events Table:
+<img src="files/events.png" alt="Events Table Preview" width="600" height="300">
 
-# SQL Copy of the Database (Output 4) ->> [Event Management](https://github.com/bangshiki/EDM-Portfolio/blob/09a1318eff4aefbe153213bf757f113d13d1b18c/Final%20Task%201/files/Event_Management.sql)
+### Attendees Table:
+<img src="files/attendees.png" alt="Attendees Table Preview" width="600" height="300">
+
+### Event_Attendees Table:
+<img src="files/event_attendees.png" alt="Event Attendees Table Preview" width="600" height="300">
+
+### Event_Sponsors Table:
+<img src="files/event_sponsors.png" alt="Event Sponsors Table Preview" width="600" height="300">
+
+## Step 5: ER Diagram Representation
+<img src="files/ER_Diagram.png" alt="Entity Relationship Diagram" width="800" height="400">
+
+## Step 6: SQL Copy of the Database
+**Download the complete SQL file here:**  
+[Event Management](https://github.com/bangshiki/EDM-Portfolio/blob/09a1318eff4aefbe153213bf757f113d13d1b18c/Final%20Task%201/files/Event_Management.sql)
+
+This documentation provides a structured and detailed guide for implementing a **MySQL database** for event management. 🚀
