@@ -39,9 +39,8 @@ This task involves **developing and structuring** a relational database derived 
 ## ER Diagram
 <img src="images/erd.png" alt="Alt Text" width="350" height="350">
 
-## SQL Copy of the Database and Table Structures
-- [Database](https://github.com/arieee5/EDM-Portfolio-Alian/blob/main/Finals%20Task%202/sqlfiles/query_statement.sql)
-- [Student Table](https://github.com/arieee5/EDM-Portfolio-Alian/blob/main/Finals%20Task%202/sqlfiles/sasdb_student_tbl.sql)
-- [Assignment Table](https://github.com/arieee5/EDM-Portfolio-Alian/blob/main/Finals%20Task%202/sqlfiles/sasdb_assignment_tbl.sql)
-- [Submission Table](https://github.com/arieee5/EDM-Portfolio-Alian/blob/main/Finals%20Task%202/sqlfiles/sasdb_submission_tbl.sql)
+## SQL Copy of the Database
+**Download the complete SQL file here:** [Event Management](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/FInal%20Task%201%20Event%20Management.sql)
+
+This documentation provides a structured and detailed guide for implementing a **Transforming ER Model to Relational Tables**. 🚀
 
