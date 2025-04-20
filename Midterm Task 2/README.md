@@ -1,61 +1,53 @@
 # Midterm Lab Task 2 – Data Cleaning and Transformation using Power Query Editor
 
-## Task Description:
-The task is to clean and transform the Uncleaned_DS_Jobs.csv dataset from kaggle using power query editor in excel. The goal is to generate insights by answering these key questions:
-- Which job roles pay the highest and lowest salaries?
-- What size of companies offer the best salaries?
-- Which job roles or titles pay the best and least in specific states?
-The cleaning involves fixing salary data, classifying job roles, handling inconsistent locations, cleaning company details, and preparing the data to group by role type, company size, and state to get salary insights.
+## Overview
+This task focuses on cleaning and transforming the **Uncleaned_DS_Jobs.csv** dataset from Kaggle using Excel's Power Query Editor. The objective is to generate meaningful insights by analyzing salary trends across various job roles, company sizes, and locations.
 
-## Screenshot of the dataset before cleaning and transformation:
-<img src="images/uncleaned.png" alt="Alt Text" width="1000" height="500">
+## Key Questions Addressed:
+- Which job roles offer the highest and lowest salaries?
+- What company sizes provide the best salary opportunities?
+- How do salary trends vary by job title across different states?
 
-# Steps performed in data cleaning and transformation
-## Data cleaning:
+## Step 1: Initial Dataset Before Cleaning and Transformation
+<img src="images/uncleaned.png" alt="Raw Dataset Preview" width="1000" height="500">
 
-- Duplicated the raw data to preserve the original.
-- Cleaned the salary estimate column by removing everything after the "(" symbol.
-- Created Min Sal and Max Sal columns from the salary estimate.
-- Added a new column Role Type to classify jobs as "data scientist", "data analyst", "data engineer", "machine learning engineer", or "other" based on the job title.
-- Corrected the location column with custom states and split it into city and state abbreviation.
-- Replaced incorrect state entries (e.g., "anne rundell" to "ma").
-- Split the company size column to extract MinCompanySize and MaxCompanySize, and removed the word "employees".
-- Replaced invalid or negative values:
-- Competitors: replaced -1 with "n/a".
-- Revenue: replaced negatives with 0.
-- Industry: replaced -1 with "other".
-- Cleaned company name by removing extra ratings or numbers at the end.
-- Removed unnecessary columns like job descriptions.
+## Step 2: Data Cleaning Process
+- **Preserved the raw dataset** by duplicating it.
+- **Cleaned salary data** by removing extraneous symbols and extracting minimum and maximum salary values.
+- **Created a new column** to classify job roles into categories such as *Data Scientist, Data Analyst, Data Engineer, Machine Learning Engineer, or Other*.
+- **Standardized location data** by correcting state entries, splitting city and state abbreviations, and replacing incorrect values.
+- **Refined company size data** by extracting minimum and maximum employee count while removing unnecessary text.
+- **Addressed invalid or missing values**:
+  - Competitors: Replaced `-1` with `"N/A"`.
+  - Revenue: Converted negative values to `0`.
+  - Industry: Substituted `-1` with `"Other"`.
+- **Cleaned company names** by removing extra ratings or appended numbers.
+- **Dropped irrelevant columns** such as job descriptions.
 
-## Data reshaping:
+## Step 3: Data Reshaping and Transformation
+- **Created a reference for salary by role type**, grouped by job category, and converted salaries to currency format.
+- **Generated salary insights by company size**, aggregating values to identify trends.
+- **Merged a state mapping file** to standardize state abbreviations with full names.
+- **Computed salary trends by state**, grouping results to present an overview of pay variations across locations.
+- **Validated query dependencies** to ensure accuracy in data relationships.
 
-- Duplicated the cleaned data as Sal By Role Type dup, selected Role Type, Min Sal, and Max Sal, converted salaries to currency, multiplied by 1000, and grouped by Role Type to get average salaries.
-- Created a reference as Sal By Role Size ref, selected Size, Min Sal, and Max Sal, multiplied salaries by 1000, and grouped by Size to get average salaries.
-- Imported a State Mapping file to map state abbreviations to full state names and merged it with the dataset.
-- Created a reference as Sal By State ref, selected State Full Name, Min Sal, and Max Sal, multiplied salaries by 1000, and grouped by State Full Name to get average salaries.
-- Checked query dependencies to confirm correct relationships.
- 
-# Excel Ouput:
+## Step 4: Final Output Screenshots
+### Cleaned Dataset:
+<img src="images/cleaned.png" alt="Cleaned Data Preview" width="1000" height="500">
+
+### Salary by Role Type:
+<img src="images/Sal%20By%20Role%20Type%20dup.png" alt="Salary by Role Type" width="1000" height="500">
+
+### Salary by Company Size:
+<img src="images/Sal%20By%20Role%20Size%20ref.png" alt="Salary by Company Size" width="1000" height="500">
+
+### Salary by State:
+<img src="images/Sal%20By%20State%20ref.png" alt="Salary by State" width="1000" height="500">
+
+### Query Dependencies:
+<img src="images/query%20dependencies.png" alt="Query Dependencies Overview" width="600" height="500">
+
+## Final Excel Output:
 Midterm Lab Task 2: [Data Cleaning and Transformation using Power Query Editor](https://github.com/angelie2/EDM-Projects-Fajarito/tree/main/rawfile)
 
-# Final output (screenshot of the final queries):
-
-## Cleaned DS Jobs: 
-
-<img src="images/cleaned.png" alt="Alt Text" width="1000" height="500">
-
-## Sal By Role Type dup:
-
-<img src="images/Sal%20By%20Role%20Type%20dup.png" alt="Alt Text" width="1000" height="500">
-
-## Sal By Role Size ref:
-
-<img src="images/Sal%20By%20Role%20Size%20ref.png" alt="Alt Text" width="1000" height="500">
-
-## Sal By State ref:
-
-<img src="images/Sal%20By%20State%20ref.png" alt="Alt Text" width="1000" height="500">
-
-
-## Query Dependencies:
-<img src="images/query%20dependencies.png" alt="Alt Text" width="600" height="500">
+This documentation outlines a systematic approach to cleaning and preparing data using Power Query for deeper analysis. 🚀
