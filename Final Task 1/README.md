@@ -15,7 +15,7 @@ This task involves **designing and implementing** a relational database using **
 - Exported the full **SQL structure** using **phpMyAdmin** or **MySQL Workbench**.
 
 ## Step 3: MySQL Query Statements (SQL Commands)
-<img src="images/query%20statements.PNG" alt="SQL Query Output" width="800" height="1000">
+<img src="images/query%20statements.PNG" alt="SQL Query Output" width="500" height="800">
 
 ## Step 4: Table Structure Screenshots
 ### Events Table:
@@ -28,10 +28,10 @@ This task involves **designing and implementing** a relational database using **
 <img src="images/desceventattendeestbl.PNG" alt="Event Attendees Table Preview" width="600" height="200">
 
 ### Event_Sponsors Table:
-<img src="images/desceventssponsorstbl.PNG" alt="Event Sponsors Table Preview" width="600" height="300">
+<img src="images/desceventssponsorstbl.PNG" alt="Event Sponsors Table Preview" width="600" height="200">
 
 ## Step 5: ER Diagram Representation
-<img src="images/erdft1.png" alt="Entity Relationship Diagram" width="800" height="1000">
+<img src="images/erdft1.png" alt="Entity Relationship Diagram" width="500" height="800">
 
 ## Step 6: SQL Copy of the Database
 **Download the complete SQL file here:**  
