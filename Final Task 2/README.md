@@ -23,20 +23,20 @@ This task involves **developing and structuring** a relational database derived 
 - Maintain referential integrity by linking students and assignments through foreign keys.
 
 # Outputs:
-## Query Statements
+## MySQL Query Statements (SQL Commands)
 <img src="images/query%20statements%20ft2.png" alt="Alt Text" width="600" height="800">
 
-## Table Structures
-### Students Table
+## Table Structures Screenshot:
+### Students Table:
 <img src="images/studenttbl.png" alt="Alt Text" width="600" height="200">
 
-### Assignment Table
+### Assignment Table:
 <img src="images/assignmenttbl.png" alt="Alt Text" width="600" height="200">
 
-### Submission Table
+### Submission Table:
 <img src="images/submissiontbl.png" alt="Alt Text" width="600" height="200">
 
-## ER Diagram
+## ER Diagram Representation
 <img src="images/erdft2.png" alt="Alt Text" width="800" height="500">
 
 ## SQL Copy of the Database
