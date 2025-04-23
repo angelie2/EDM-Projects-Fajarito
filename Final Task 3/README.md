@@ -40,10 +40,10 @@ Altered the `product_name` column to increase its maximum length to 120 characte
 <img src="images/descproductstbl.png" alt="Products Table Preview" width="600" height="200">
 
 ## ER Diagram Representation
-<img src="images/erdiagram.png" alt="Entity Relationship Diagram" width="600" height="200">
+<img src="images/erdft3.png" alt="Entity Relationship Diagram" width="600" height="200">
 
 ## SQL Copy of the Database
-**Download the complete SQL file here:** [Table Manipulation](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/FInal%20Task%201%20Event%20Management.sql)
+**Download the complete SQL file here:** [Table Manipulation](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/Finals%20Lab%20Task%203%20Table%20Manipulation.sql)
 
 This documentation provides a structured and detailed guide for implementing a **Table Manipulation**. 🚀
 
