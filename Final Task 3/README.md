@@ -1,17 +1,23 @@
 # Finals Lab Task 3 – Table Manipulation
 
-## Overview
+## 📄 Overview
 This task focuses on **designing and modifying** a MySQL table named products. The table was structured with appropriate data types and constraints, ensuring data integrity and enforceability of business rules. Key implementations include a `CHECK` constraint to validate pricing and alterations to the table structure.
 
-## Step 1: Table Creation (products)
+---
+
+## 🛠️ Step 1: Table Creation (products)
 - **ID**: Unique integer, auto-increment, set as the primary key.
 - **Product_Name**: String (VARCHAR) with a maximum length of 100 characters, cannot be null (NOT NULL).
 - **Price**: Decimal, representing product pricing.
 
-## Step 2: Adding Constraints
+---
+
+## 🚧 Step 2: Adding Constraints
 - Implemented a `CHECK` constraint to ensure that price values remain greater than 0.
 
-## Step 3: Product Data Insertion
+---
+
+## 📝 Step 3: Product Data Insertion
 Only valid entries were added to the table, ensuring no violations of the pricing constraint:
 - Product 1: "Laptop" - 999.99
 - Product 2: "Smartphone" - 599.99
@@ -28,8 +34,12 @@ Only valid entries were added to the table, ensuring no violations of the pricin
 
 <img src="images/productstbl.png" alt="Alt Text" width="500" height="400">
 
+---
+
 ## Step 4: Modifying Table Structure
 Altered the `product_name` column to increase its maximum length to 120 characters using ALTER TABLE.
+
+---
 
 # Outputs:
 ## MySQL Query Statements (SQL Commands)
@@ -41,6 +51,8 @@ Altered the `product_name` column to increase its maximum length to 120 characte
 
 ## ER Diagram Representation
 <img src="images/erdft3.png" alt="Entity Relationship Diagram" width="300" height="300">
+
+---
 
 ## SQL Copy of the Database
 **Download the complete SQL file here:** [Table Manipulation](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/Finals%20Lab%20Task%203%20Table%20Manipulation.sql)
