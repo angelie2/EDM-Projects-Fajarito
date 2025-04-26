@@ -31,4 +31,9 @@ In this task, we process raw flat data from Excel by performing data cleaning, n
 ## 🔍 Step 5: Final Physical Data Model
 <img src="erd.PNG" alt="Entity Relationship Diagram" width="600" height="300">
 
+---
+
+## SQL Copy of the Database
+**Download the complete SQL file here:** [Data Cleaning and Normalization](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/data%20cleaning%20and%20normalization.xlsx)
+
 This documentation outlines the structured approach to cleaning and preparing data efficiently in Excel. 🚀
