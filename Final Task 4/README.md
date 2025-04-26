@@ -1,17 +1,16 @@
+# Finals Lab Task 4: Implementing SELECT Queries
 
-**Finals Lab Task 4: Implementing SELECT Queries**
-
-**Task Overview:**  
+## Overview:
 In this lab, I worked with a single database containing two tables: `EmployeeSalaries` and `EmployeeData`. The main goal was to execute various SELECT queries to extract and manipulate employee-related data efficiently.
 
-**Steps to Complete the Task:**  
+## Steps to Complete the Task:  
 1. Create a database named `payroll` and switch to it using the `USE payroll` statement.  
 2. Copy and paste the provided initial query into the database.  
 3. Perform the required SELECT queries for each of the problems outlined below.
 
 ---
 
-### **Problem 1:**  
+## **Problem 1:**
 The `EmployeeSalaries` table contains salary information for employees with the following schema:  
 - `employee_id INT AUTO_INCREMENT PRIMARY KEY`  
 - `employee_name VARCHAR(100)`  
@@ -23,6 +22,19 @@ Using this table, perform the following queries:
 1. Retrieve `employee_name` and `salary` from the table, sorted from highest salary to lowest.  
 2. Retrieve the names of departments along with the average salary for each.  
 3. Retrieve `department`, `salary`, and calculate the total salary for each department.
+
+---
+
+# Outputs:
+
+## Retrieve the employee_name and salary of employees and arrange from the highest salary to the lowest.
+<img src="files/1.1.png" alt="Alt Text" width="600" height="700">
+
+## Retrieve the department names along with the average salary for each department.
+<img src="files/1.2.png" alt="Alt Text" width="600" height="400">
+
+## Retrieve Department, Salary and Calculate total salary for each DEPARTMENT
+<img src="files/1.3.png" alt="Alt Text" width="600" height="300">
 
 ---
 
@@ -40,5 +52,26 @@ Using this table, perform the following queries:
 2. Retrieve the average salary for all employees, filtered where the average salary exceeds $70,000.  
 3. Retrieve the `full_name` of employees earning more than $100,000.  
 4. Retrieve the total number of employees recorded in the table.
+
+---
+
+# Outputs:
+
+## Retrieve the employees along with their full names and salaries from highest paying employee to the lowest.
+<img src="files/2.1.png" alt="Alt Text" width="600" height="700">
+
+## Retrieve the average salary from EmployeeData table, where the average salary exceeds $70,000.
+<img src="files/2.2.png" alt="Alt Text" width="600" height="700">
+
+## Retrieve the full names of employees who earn a salary greater than $100,000.
+<img src="files/2.3.png" alt="Alt Text" width="600" height="500">
+
+## Retrieve the number of employees from the EmployeeData table.
+<img src="files/2.4.png" alt="Alt Text" width="600" height="300">
+
+# SQL Copy of the Database 
+**Download the complete SQL file here:** [SELECT Queries](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/Finals%20Lab%20Task%203%20Table%20Manipulation.sql)
+
+This documentation provides a structured and detailed guide for implementing a **SELECT Queries**. 🚀
 
 ---
