@@ -9,13 +9,9 @@ This task focuses on **building a Pivot Table-based dashboard** using the provid
 - Utilized the **"Uncleaned DS Jobs"** worksheet along with transformed tables: *Sal by Role, Sal by State, and Sal by Size*.
 - Ensured the dataset was formatted for efficient analysis.
 
----
-
 ## 🧑‍💻 Step 2: Creating Pivot Tables
 - Generated **Pivot Tables** for job roles, states, and company sizes.
 - Aggregated **salary distribution** and job counts for meaningful comparisons.
-
----
 
 ## ✏️ Step 3: Dashboard Design
 - Built an **interactive dashboard** showcasing:
@@ -23,18 +19,12 @@ This task focuses on **building a Pivot Table-based dashboard** using the provid
   - The job role with the **highest** average salary.
   - The company size offering the **best** salaries.
 
----
-
 ## ✨ Step 4: Adding Visualizations
 - Incorporated **bar charts, column charts, and pie charts** to effectively present salary trends.
 - Replaced unsupported map visualizations with alternative charts.
 
----
-
 ## 🔧 Step 5: Inserting Slicers
 - Added slicers for **Role Type, Company Size, and State** to enable dynamic filtering.
-
----
 
 ## 🧩 Step 6: Customizing the Dashboard
 - Applied **design enhancements, custom formatting, and color settings** to improve readability and presentation.
