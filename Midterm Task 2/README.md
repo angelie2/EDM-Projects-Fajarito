@@ -3,13 +3,19 @@
 ## 🔍 Overview
 This task focuses on cleaning and transforming the **Uncleaned_DS_Jobs.csv** dataset from Kaggle using Excel's Power Query Editor. The objective is to generate meaningful insights by analyzing salary trends across various job roles, company sizes, and locations.
 
+---
+
 ## 📄 Key Questions Addressed:
 - Which job roles offer the highest and lowest salaries?
 - What company sizes provide the best salary opportunities?
 - How do salary trends vary by job title across different states?
 
+---
+
 ## 💡 Step 1: Initial Dataset Before Cleaning and Transformation
 <img src="images/uncleaned.png" alt="Raw Dataset Preview" width="1000" height="500">
+
+---
 
 ## ✨ Step 2: Data Cleaning Process
 - **Preserved the raw dataset** by duplicating it.
@@ -24,12 +30,16 @@ This task focuses on cleaning and transforming the **Uncleaned_DS_Jobs.csv** dat
 - **Cleaned company names** by removing extra ratings or appended numbers.
 - **Dropped irrelevant columns** such as job descriptions.
 
+---
+
 ## 🧩 Step 3: Data Reshaping and Transformation
 - **Created a reference for salary by role type**, grouped by job category, and converted salaries to currency format.
 - **Generated salary insights by company size**, aggregating values to identify trends.
 - **Merged a state mapping file** to standardize state abbreviations with full names.
 - **Computed salary trends by state**, grouping results to present an overview of pay variations across locations.
 - **Validated query dependencies** to ensure accuracy in data relationships.
+
+---
 
 ## 🛠️ Step 4: Final Output Screenshots
 ### Cleaned Dataset:
@@ -46,6 +56,8 @@ This task focuses on cleaning and transforming the **Uncleaned_DS_Jobs.csv** dat
 
 ### Query Dependencies:
 <img src="images/query%20dependencies.png" alt="Query Dependencies Overview" width="600" height="500">
+
+---
 
 ## Final Excel Output:
 Midterm Lab Task 2: [Data Cleaning and Transformation using Power Query Editor](https://github.com/angelie2/EDM-Projects-Fajarito/tree/main/rawfile)
