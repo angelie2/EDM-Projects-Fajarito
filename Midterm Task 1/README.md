@@ -34,6 +34,6 @@ In this task, we process raw flat data from Excel by performing data cleaning, n
 ---
 
 ## Final Excel Output:
-**Download the complete SQL file here:** [Data Cleaning and Normalization](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/data%20cleaning%20and%20normalization.xlsx)
+**Download the complete Excel file here:** [Data Cleaning and Normalization](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/data%20cleaning%20and%20normalization.xlsx)
 
 This documentation outlines the structured approach to **cleaning and preparing data** efficiently in Excel. 🚀
