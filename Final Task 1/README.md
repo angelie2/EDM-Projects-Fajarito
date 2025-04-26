@@ -3,16 +3,22 @@
 ## Overview
 This task involves **designing and implementing** a relational database using **MySQL statements**. The database consists of four main tables: *Events, Attendees, Event Attendees, and Event Sponsors*. Each table demonstrates key relational database concepts, including **primary keys, foreign keys, composite keys, and relationships**.
 
+---
+
 ## Step 1: Database Design
 - **Events Table**: Stores event details with `event_id` and `event_name`.
 - **Attendees Table**: Tracks attendees with `attendee_id` and `attendee_name`.
 - **Event_Attendees Table**: Establishes a **many-to-many relationship** between events and attendees.
 - **Event_Sponsors Table**: Links sponsors to events while storing sponsorship details.
 
+---
+
 ## Step 2: SQL Implementation
 - Created tables with appropriate **primary and foreign key constraints**.
 - Ensured proper **relationship mapping** using composite keys.
 - Exported the full **SQL structure** using **phpMyAdmin** or **MySQL Workbench**.
+
+---
 
 ## Step 3: MySQL Query Statements (SQL Commands)
 <img src="images/query%20statements.PNG" alt="SQL Query Output" width="600" height="800">
@@ -32,6 +38,8 @@ This task involves **designing and implementing** a relational database using **
 
 ## Step 5: ER Diagram Representation
 <img src="images/erdft1.png" alt="Entity Relationship Diagram" width="500" height="500">
+
+---
 
 ## Step 6: SQL Copy of the Database
 **Download the complete SQL file here:** [Event Management](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/FInal%20Task%201%20Event%20Management.sql)
