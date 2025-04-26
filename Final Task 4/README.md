@@ -3,12 +3,12 @@
 ## 🎯 Overview:
 In this lab, I worked with a single database containing two tables: `EmployeeSalaries` and `EmployeeData`. The main goal was to execute various SELECT queries to extract and manipulate employee-related data efficiently.
 
+---
+
 ## 📄 Steps to Complete the Task:  
 1. Create a database named `payroll` and switch to it using the `USE payroll` statement.  
 2. Copy and paste the provided initial query into the database.  
 3. Perform the required SELECT queries for each of the problems outlined below.
-
----
 
 ## 🌟 **Problem 1:**
 The `EmployeeSalaries` table contains salary information for employees with the following schema:  
