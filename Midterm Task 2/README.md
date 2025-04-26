@@ -60,6 +60,6 @@ This task focuses on cleaning and transforming the **Uncleaned_DS_Jobs.csv** dat
 ---
 
 ## Final Excel Output:
-Midterm Lab Task 2: [Data Cleaning and Transformation using Power Query Editor](https://github.com/angelie2/EDM-Projects-Fajarito/tree/main/rawfile)
+**Download the complete Excel file here:** [Data Cleaning and Transformation using Power Query Editor](https://github.com/angelie2/EDM-Projects-Fajarito/tree/main/rawfile)
 
-This documentation outlines a systematic approach to cleaning and preparing data using Power Query for deeper analysis. 🚀
+This documentation outlines a systematic approach to **cleaning and transformation of data** using Power Query for deeper analysis. 🚀
