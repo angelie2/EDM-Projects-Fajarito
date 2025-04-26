@@ -69,9 +69,10 @@ Using this table, perform the following queries:
 ## Retrieve the number of employees from the EmployeeData table.
 <img src="files/2.4.png" alt="Alt Text" width="600" height="300">
 
+---
+
 # SQL Copy of the Database 
 **Download the complete SQL file here:** [SELECT Queries](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/Finals%20Lab%20Task%203%20Table%20Manipulation.sql)
 
 This documentation provides a structured and detailed guide for implementing a **SELECT Queries**. 🚀
 
----
