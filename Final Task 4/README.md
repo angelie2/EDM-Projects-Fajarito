@@ -1,7 +1,7 @@
 # Finals Lab Task 4: Implementing SELECT Queries
 
 ## 🎯 Overview:
-In this lab, I worked with a single database containing two tables: `EmployeeSalaries` and `EmployeeData`. The main goal was to execute various SELECT queries to extract and manipulate employee-related data efficiently.
+This tasks focuses on a single database containing two tables: `EmployeeSalaries` and `EmployeeData`. The main goal was to execute various SELECT queries to **extract and manipulate** employee-related data efficiently.
 
 ---
 
