@@ -36,7 +36,7 @@ This task focuses on **building a Pivot Table-based dashboard** using the provid
 
 ---
 
-## Final Excel Output:
+## 🔗 Final Excel Output:
 **Download the complete Excel file here:** [Creating Pivot Table and Dashboard](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/Pivot%20Table%20and%20Dashboard.xlsx)
 
 This documentation provides a structured approach to summarizing salary insights with Pivot Tables and an interactive dashboard. 🚀
