@@ -72,7 +72,7 @@ Using this table, perform the following queries:
 ---
 
 # SQL Copy of the Database 
-**Download the complete SQL file here:** [SELECT Queries](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/Finals%20Lab%20Task%203%20Table%20Manipulation.sql)
+**Download the complete SQL file here:** [SELECT Queries](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/Finals%20Lab%20Task%204%20Implementing%20SELECT%20Queries.sqll)
 
 This documentation provides a structured and detailed guide for implementing a **SELECT Queries**. 🚀
 
