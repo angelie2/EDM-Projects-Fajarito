@@ -1,7 +1,7 @@
 # Finals Lab Task 5: Using SQL views and Stored Procedures and Stored Functions
 
 ## 🎯 Overview:
-This task focuses on 
+
 ---
 
 ## 📄 Steps to Complete the Task:  
