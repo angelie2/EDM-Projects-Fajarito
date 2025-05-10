@@ -23,12 +23,9 @@ This task involves working with an inventory database containing two tables: `Pr
 
 3️⃣ **View 3**: Compute TOTAL_PRICE for all products by multiplying P_ONHAND × P_PRICE, limited to vendors with v_code 21344, 23119, and 24288.
 
-**Create a Stored Procedure:**
-
+## Create a Stored Procedure:
 📌 Implement a stored procedure that updates the vendor name from ‘Bryson, Inc.’ to ‘Bryson and Co’, using a single parameter.
-
-**Create a SQL Function:**
-
+## Create a SQL Function:
 📌 Develop a function that accepts two parameters (v_code and v_state) and retrieves product descriptions and prices based on these values.
 
 
