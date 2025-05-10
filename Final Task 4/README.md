@@ -28,13 +28,13 @@ Using this table, perform the following queries:
 # Outputs:
 
 ## Retrieve the employee_name and salary of employees and arrange from the highest salary to the lowest.
-<img src="files/1.1.png" alt="Alt Text" width="600" height="700">
+<img src="files/p1 h to l.png" alt="Alt Text" width="600" height="700">
 
 ## Retrieve the department names along with the average salary for each department.
-<img src="files/1.2.png" alt="Alt Text" width="600" height="400">
+<img src="files/avsal per dep.png" alt="Alt Text" width="600" height="400">
 
 ## Retrieve Department, Salary and Calculate total salary for each DEPARTMENT
-<img src="files/1.3.png" alt="Alt Text" width="600" height="300">
+<img src="files/totalsal ea dep.png" alt="Alt Text" width="600" height="300">
 
 ---
 
@@ -58,16 +58,16 @@ Using this table, perform the following queries:
 # Outputs:
 
 ## Retrieve the employees along with their full names and salaries from highest paying employee to the lowest.
-<img src="files/2.1.png" alt="Alt Text" width="600" height="700">
+<img src="files/p2 h to l.png" alt="Alt Text" width="600" height="700">
 
 ## Retrieve the average salary from EmployeeData table, where the average salary exceeds $70,000.
-<img src="files/2.2.png" alt="Alt Text" width="600" height="700">
+<img src="files/avsal70k.png" alt="Alt Text" width="600" height="700">
 
 ## Retrieve the full names of employees who earn a salary greater than $100,000.
-<img src="files/2.3.png" alt="Alt Text" width="600" height="500">
+<img src="files/100ksal.png" alt="Alt Text" width="600" height="500">
 
 ## Retrieve the number of employees from the EmployeeData table.
-<img src="files/2.4.png" alt="Alt Text" width="600" height="300">
+<img src="files/numofemployee.png" alt="Alt Text" width="600" height="300">
 
 ---
 
