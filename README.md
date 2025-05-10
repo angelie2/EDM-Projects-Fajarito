@@ -16,3 +16,5 @@ An undergraduate student currently pursuing Bachelor of Science in Information S
 - Final Lab Task 1: [MySQL Basics](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/Final%20Task%201/README.md)
 - Final Lab Task 2: [Transforming ER into Relational Tables](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/Final%20Task%202/README.md)
 - Final Lab Task 3: [Table Manipulation](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/Final%20Task%203/README.md)
+- Final Lab Task 4: [Implementing SELECT Queries](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/Final%20Task%204/README.md)
+- Final Lab Task 5: [Using SQL views and Stored Procedures and Stored Functions](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/Finals%20Task%205/README.md)
