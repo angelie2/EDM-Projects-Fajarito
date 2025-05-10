@@ -1,78 +1,57 @@
-# Finals Lab Task 5: Using SQL views and Stored Procedures and Stored Functions
+# Finals Lab Task 4: Implementing SELECT Queries
 
 ## 🎯 Overview:
+This task involves working with an inventory database containing two tables: `Products` and `Vendors`. The main goal is to implement **SQL Views, Stored Procedures, and Functions** to efficiently manage and retrieve relevant vendor and product data.
 
 ---
 
-## 📄 Steps to Complete the Task:  
-1. Create a database named `payroll` and switch to it using the `USE payroll` statement.  
-2. Copy and paste the provided initial query into the database.  
-3. Perform the required SELECT queries for each of the problems outlined below.
-
-## 🌟 **Problem 1:**
-The `EmployeeSalaries` table contains salary information for employees with the following schema:  
-- `employee_id INT AUTO_INCREMENT PRIMARY KEY`  
-- `employee_name VARCHAR(100)`  
-- `department VARCHAR(50)`  
-- `salary DECIMAL(10,2)`  
-- `hire_date DATE`  
-
-Using this table, perform the following queries:  
-1. Retrieve `employee_name` and `salary` from the table, sorted from highest salary to lowest.  
-2. Retrieve the names of departments along with the average salary for each.  
-3. Retrieve `department`, `salary`, and calculate the total salary for each department.
+## 📄 Task Instructions:
+## ✅ Setup:
+1. **Understand SQL Views and Stored Procedures** by reviewing lecture materials.
+2. Start **XAMPP** and **MySQL Workbench**, then establish a connection.
+3. Open `democodes.sql` and execute sample queries using hrd.sql.
+4. Once familiar with practice examples, proceed with inventory.sql.
+5. **Execute the required SQL queries** and take screenshots of the output.
 
 ---
 
-# Outputs:
+## 🌟 **SQL Queries & Required Operations:**
+## Create SQL Views:
+1️⃣ **View 1**: Display vendor code, vendor name, product description, and product entry date for all products with an p_indate from 2002 onwards. 
 
-## Retrieve the employee_name and salary of employees and arrange from the highest salary to the lowest.
-<img src="files/1.1.png" alt="Alt Text" width="600" height="700">
+2️⃣ **View 2**: Retrieve all products with a price range between $100 and $150. 
 
-## Retrieve the department names along with the average salary for each department.
-<img src="files/1.2.png" alt="Alt Text" width="600" height="400">
+3️⃣ **View 3**: Compute TOTAL_PRICE for all products by multiplying P_ONHAND × P_PRICE, limited to vendors with v_code 21344, 23119, and 24288.
 
-## Retrieve Department, Salary and Calculate total salary for each DEPARTMENT
-<img src="files/1.3.png" alt="Alt Text" width="600" height="300">
+**Create a Stored Procedure:**
+
+📌 Implement a stored procedure that updates the vendor name from ‘Bryson, Inc.’ to ‘Bryson and Co’, using a single parameter.
+
+**Create a SQL Function:**
+
+📌 Develop a function that accepts two parameters (v_code and v_state) and retrieves product descriptions and prices based on these values.
+
+
+---
+## 📊 Outputs:
+## View 1: Retrieve Vendor Details from 2002 Onwards
+<img src="images/view1.png" alt="Vendor View" width="500" height="700">
+
+## View 2: Display Products in Price Range $100–$150
+<img src="images/view2.png" alt="Price Range View" width="500" height="500">
+
+## View 3: Compute Total Product Price for Specific Vendors
+<img src="images/view3.png" alt="Total Price Calculation" width="500" height="500">
+
+## Stored Procedure: Updating Vendor Name
+<img src="images/sp_update_vendor.png" alt="Stored Procedure Update" width="500" height="400">
+
+## Function: Retrieve Product Description and Price Based on Vendor Parameters
+<img src="images/function_product_data.png" alt="Function Execution" width="500" height="400">
 
 ---
 
-## ✨ **Problem 2:**  
-The `EmployeeData` table stores information about employees with the following schema:  
-- `employee_id INT AUTO_INCREMENT PRIMARY KEY`  
-- `full_name VARCHAR(100)`  
-- `department VARCHAR(50)`  
-- `salary DECIMAL(10,2)`  
-- `hire_date DATE`  
-- `manager_id INT`  
+## 🔗 SQL Copy of the Database
+Download the complete SQL dataset here: 📂 [SQL Views & Stored Procedures]()
 
-Using this table, perform the following queries:  
-1. Retrieve `full_name` and `salary` of employees, sorted from the highest salary to the lowest.  
-2. Retrieve the average salary for all employees, filtered where the average salary exceeds $70,000.  
-3. Retrieve the `full_name` of employees earning more than $100,000.  
-4. Retrieve the total number of employees recorded in the table.
-
----
-
-# Outputs:
-
-## Retrieve the employees along with their full names and salaries from highest paying employee to the lowest.
-<img src="files/2.1.png" alt="Alt Text" width="600" height="700">
-
-## Retrieve the average salary from EmployeeData table, where the average salary exceeds $70,000.
-<img src="files/2.2.png" alt="Alt Text" width="600" height="700">
-
-## Retrieve the full names of employees who earn a salary greater than $100,000.
-<img src="files/2.3.png" alt="Alt Text" width="600" height="500">
-
-## Retrieve the number of employees from the EmployeeData table.
-<img src="files/2.4.png" alt="Alt Text" width="600" height="300">
-
----
-
-# SQL Copy of the Database 
-**Download the complete SQL file here:** [SELECT Queries](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/Finals%20Lab%20Task%203%20Table%20Manipulation.sql)
-
-This documentation provides a structured and detailed guide for implementing a **SELECT Queries**. 🚀
-
-
+This documentation provides a detailed and structured guide for implementing SQL Views, Stored Procedures, and Functions effectively. 🚀
