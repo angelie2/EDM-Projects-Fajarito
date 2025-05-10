@@ -41,7 +41,7 @@ This task involves **designing and implementing** a relational database using **
 
 ---
 
-## SQL Copy of the Database
+## 🔗 SQL Copy of the Database
 **Download the complete SQL file here:** [Event Management](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/Finals%20Lab%20Task%201%20Event%20Management.sql)
 
 This documentation provides a structured and detailed guide for implementing a **MySQL database** for event management. 🚀
