@@ -1,4 +1,4 @@
-# Finals Lab Task 4: Implementing SELECT Queries
+# Finals Lab Task Finals Task 5.Using SQL views and Stored Procedures and Stored Functions
 
 ## 🎯 Overview:
 This task involves working with an inventory database containing two tables: `Products` and `Vendors`. The main goal is to implement **SQL Views, Stored Procedures, and Functions** to efficiently manage and retrieve relevant vendor and product data.
