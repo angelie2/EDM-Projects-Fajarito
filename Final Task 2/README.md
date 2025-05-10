@@ -50,7 +50,7 @@ This task involves **developing and structuring** a relational database derived 
 
 ---
 
-## SQL Copy of the Database
+## 🔗 SQL Copy of the Database
 **Download the complete SQL file here:** [Transforming ER Model to Relational Tables](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/Finals%20Lab%20Task%202%20Transforming%20ER%20Model%20to%20Relational%20Tables.sql)
 
 This documentation provides a structured and detailed guide for implementing a **Transforming ER Model to Relational Tables**. 🚀
