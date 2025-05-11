@@ -49,6 +49,6 @@ This task involves working with an inventory database containing two tables: `Pr
 ---
 
 ## 🔗 SQL Copy of the Database
-Download the complete SQL dataset here: 📂 [SQL Views & Stored Procedures]()
+Download the complete SQL dataset here: 📂 [SQL Views & Stored Procedures](https://github.com/angelie2/EDM-Projects-Fajarito/blob/main/rawfile/Finals%20Lab%20Task%205%20Utilizing%20SQL%20Views%2C%20Stored%20Procedures%2C%20and%20Functions.sql)
 
 This documentation provides a detailed and structured guide for implementing SQL Views, Stored Procedures, and Functions effectively. 🚀
