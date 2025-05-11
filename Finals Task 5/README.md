@@ -32,19 +32,19 @@ This task involves working with an inventory database containing two tables: `Pr
 ---
 ## 📊 Outputs:
 ## View 1: Retrieve Vendor Details from 2002 Onwards
-<img src="images/view1.png" alt="Vendor View" width="500" height="700">
+<img src="images/view1.png" alt="Vendor View" width="800" height="500">
 
 ## View 2: Display Products in Price Range $100–$150
 <img src="images/view2.png" alt="Price Range View" width="500" height="500">
 
 ## View 3: Compute Total Product Price for Specific Vendors
-<img src="images/view3.png" alt="Total Price Calculation" width="500" height="500">
+<img src="images/view3.png" alt="Total Price Calculation" width="800" height="600">
 
 ## Stored Procedure: Updating Vendor Name
-<img src="images/sp_update_vendor.png" alt="Stored Procedure Update" width="500" height="400">
+<img src="images/SP 4.png" alt="Stored Procedure Update" width="500" height="500">
 
 ## Function: Retrieve Product Description and Price Based on Vendor Parameters
-<img src="images/function_product_data.png" alt="Function Execution" width="500" height="400">
+<img src="images/F5.png" alt="Function Execution" width="500" height="500">
 
 ---
 
